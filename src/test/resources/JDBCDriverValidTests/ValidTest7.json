@@ -1,0 +1,94 @@
+{
+  "database": "Database1.json",
+  "query": "select kind, description,short_name, violation_reason,created_utc, priority from rules;",
+  "data": [
+    {
+      "kind": "link",
+      "description": "No \"sad\" content, such as pics of animals that have passed away (try /r/petloss),  animals that have been injured/abused, or sob stories (e.g. found him in a dumpster,  finding abandoned animals, sick/survived cancer).",
+      "short_name": "No \"sad\" content",
+      "violation_reason": "No \"sad\" content",
+      "created_utc": 1454090084.0,
+      "priority": 0
+    },
+    {
+      "kind": "link",
+      "description": "No comics, captioned pictures/videos (try /r/lolcats, r/cute, or /r/animaltextgifs), or photos of just text.  No memes or snapchat captions.",
+      "short_name": "No captioned pictures/videos",
+      "violation_reason": "No captioned pictures/videos",
+      "created_utc": 1454090110.0,
+      "priority": 1
+    },
+    {
+      "kind": "link",
+      "description": "No post titles asking for upvotes or approval, such as \"any love for...\", \"what does /r/aww think of...\", or \"this didn't get much love on...\", or \"karma machine\", \"sort by new\", \"don't scroll past\", \"not your typical aww\", \"r/aww needs more [X] animals\".",
+      "short_name": "No asking for upvotes or approval",
+      "violation_reason": "No asking for upvotes or approval",
+      "created_utc": 1454090126.0,
+      "priority": 2
+    },
+    {
+      "kind": "all",
+      "description": "No slurs or harassing comments.",
+      "short_name": "No harassment",
+      "violation_reason": "No harassment",
+      "created_utc": 1454090144.0,
+      "priority": 3
+    },
+    {
+      "kind": "link",
+      "description": "No posts with links to sites not on the approved list.",
+      "short_name": "Posts must link to sites on our approved list",
+      "violation_reason": "Posts must link to sites on our approved list",
+      "created_utc": 1454090162.0,
+      "priority": 4
+    },
+    {
+      "kind": "all",
+      "description": "This includes not only inappropriate images but also inappropriate text, innuendo, or inappropriate jokes in comments.  No comments about how dangerous certain domesticated breeds are, or about eating the animals in the post.",
+      "short_name": "No NSFW content",
+      "violation_reason": "No NSFW content",
+      "created_utc": 1454090187.0,
+      "priority": 5
+    },
+    {
+      "kind": "all",
+      "description": "No asking for donations, sponsorship or adoptions (try /r/care or /r/assistance).",
+      "short_name": "No asking for donations or adoptions",
+      "violation_reason": "No asking for donations or adoptions",
+      "created_utc": 1454090253.0,
+      "priority": 6
+    },
+    {
+      "kind": "all",
+      "description": "No bots or bot-like behaviour.  This includes copypasting titles and/or comments, or generally acting like a script/bot.  No flooding (more than 4 posts in a 24 hour period).",
+      "short_name": "No bots or bot-like behaviour",
+      "violation_reason": "No bots or bot-like behaviour",
+      "created_utc": 1454090264.0,
+      "priority": 7
+    },
+    {
+      "kind": "all",
+      "description": "No false claims of content ownership.",
+      "short_name": "No lying about ownership",
+      "violation_reason": "No lying about ownership",
+      "created_utc": 1454090320.0,
+      "priority": 8
+    },
+    {
+      "kind": "all",
+      "description": "No links to social media content, whether in comments, submissions, image/video descriptions (including imgur gallery descriptions for direct links), or as superimposed text in an image. Handles are okay in comments as long as they're not links.",
+      "short_name": "No social media",
+      "violation_reason": "No social media",
+      "created_utc": 1474672742.0,
+      "priority": 9
+    },
+    {
+      "kind": "all",
+      "description": "If you need to contact the mods, you'll need to provide a link/URL to whatever it is that you're talking about.  Failure to do this may mean that you get ignored.  We have other users to help as well, and making us dig through your profile to find an issue means we have less time to help others and deal with the rest of the subreddit.\n\nhttps://www.reddit.com/message/compose?to=%2Fr%2Faww",
+      "short_name": "We're here to help, but please provide a link/URL when you modmail us",
+      "violation_reason": "We're here to help, but please provide a link when you modmail us",
+      "created_utc": 1591124154.0,
+      "priority": 10
+    }
+  ]
+}

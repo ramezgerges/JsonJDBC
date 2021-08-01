@@ -1,0 +1,39 @@
+{
+  "database": "Database1.json",
+  "query": "seLeCt description fRoM rules;",
+  "data": [
+    {
+      "description": "No \"sad\" content, such as pics of animals that have passed away (try /r/petloss),  animals that have been injured/abused, or sob stories (e.g. found him in a dumpster,  finding abandoned animals, sick/survived cancer)."
+    },
+    {
+      "description": "No comics, captioned pictures/videos (try /r/lolcats, r/cute, or /r/animaltextgifs), or photos of just text.  No memes or snapchat captions."
+    },
+    {
+      "description": "No post titles asking for upvotes or approval, such as \"any love for...\", \"what does /r/aww think of...\", or \"this didn't get much love on...\", or \"karma machine\", \"sort by new\", \"don't scroll past\", \"not your typical aww\", \"r/aww needs more [X] animals\"."
+    },
+    {
+      "description": "No slurs or harassing comments."
+    },
+    {
+      "description": "No posts with links to sites not on the approved list."
+    },
+    {
+      "description": "This includes not only inappropriate images but also inappropriate text, innuendo, or inappropriate jokes in comments.  No comments about how dangerous certain domesticated breeds are, or about eating the animals in the post."
+    },
+    {
+      "description": "No asking for donations, sponsorship or adoptions (try /r/care or /r/assistance)."
+    },
+    {
+      "description": "No bots or bot-like behaviour.  This includes copypasting titles and/or comments, or generally acting like a script/bot.  No flooding (more than 4 posts in a 24 hour period)."
+    },
+    {
+      "description": "No false claims of content ownership."
+    },
+    {
+      "description": "No links to social media content, whether in comments, submissions, image/video descriptions (including imgur gallery descriptions for direct links), or as superimposed text in an image. Handles are okay in comments as long as they're not links."
+    },
+    {
+      "description": "If you need to contact the mods, you'll need to provide a link/URL to whatever it is that you're talking about.  Failure to do this may mean that you get ignored.  We have other users to help as well, and making us dig through your profile to find an issue means we have less time to help others and deal with the rest of the subreddit.\n\nhttps://www.reddit.com/message/compose?to=%2Fr%2Faww"
+    }
+  ]
+}

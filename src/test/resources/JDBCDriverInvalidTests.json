@@ -1,0 +1,66 @@
+[
+  {
+    "database": "Database1.json",
+    "query": "select * from RuLES;"
+  },
+  {
+    "database": "Database1.json",
+    "query": "select kind, description,priority_not from rules;"
+  },
+  {
+    "database": "Database1.json",
+    "query": "select kind, description,prioritY from rules;"
+  },
+  {
+    "database": "Database1.json",
+    "query": "select kind, Description,prioritY from rules;"
+  },
+  {
+    "database": "Database1.json",
+    "query": "select * from rules"
+  },
+  {
+    "database": "Database1.json",
+    "query": "select kind from rules"
+  },
+  {
+    "database": "Database1.json",
+    "query": "select *, kind from rules;"
+  },
+  {
+    "database": "Database1.json",
+    "query": "sel kind from rules;"
+  },
+  {
+    "database": "Database1.json",
+    "query": "select *kind from rules"
+  },
+  {
+    "database": "Database1.json",
+    "query": "select kind description from rules;"
+  },
+  {
+    "database": "Database2.json",
+    "query": "select ,id from users;"
+  },
+  {
+    "database": "Database2.json",
+    "query": "select ID from users;"
+  },
+  {
+    "database": "Database2.json",
+    "query": "select * from u sers;"
+  },
+  {
+    "database": "Database2.json",
+    "query": "select id, gender, from users;"
+  },
+  {
+    "database": "Database2.json",
+    "query": "select whatever from users;"
+  },
+  {
+    "database": "Database2.json",
+    "query": "select from users;"
+  }
+]
