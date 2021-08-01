@@ -1,0 +1,26 @@
+{
+  "database": "Database2.json",
+  "query": "select email, gender, ip_address from users;",
+  "data": [
+    {
+      "gender": "Female",
+      "email": "jpenddreth0@census.gov",
+      "ip_address": "26.58.193.2"
+    },
+    {
+      "gender": "Male",
+      "email": "gfrediani1@senate.gov",
+      "ip_address": "229.179.4.212"
+    },
+    {
+      "gender": "Female",
+      "email": "nbea2@imageshack.us",
+      "ip_address": "180.66.162.255"
+    },
+    {
+      "gender": "Male",
+      "email": "wvalek3@vk.com",
+      "ip_address": "67.76.188.26"
+    }
+  ]
+}

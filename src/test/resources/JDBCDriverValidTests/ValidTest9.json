@@ -1,0 +1,22 @@
+{
+  "database": "Database2.json",
+  "query": "seLEct id,    first_name fROM  users;",
+  "data": [
+    {
+      "id": 1,
+      "first_name": "Jeanette"
+    },
+    {
+      "id": 2,
+      "first_name": "Giavani"
+    },
+    {
+      "id": 3,
+      "first_name": "Noell"
+    },
+    {
+      "id": 4,
+      "first_name": "Willard"
+    }
+  ]
+}
